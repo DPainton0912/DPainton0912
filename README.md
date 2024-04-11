@@ -102,7 +102,7 @@ NZ DIPLOMA IN INFORMATION SYSTEMS (LEVEL 5)
  - Restaurant reservation booking system MVC web app made with C#, HTML5, CSS3, Javascript, Bootstrap theme,  SQL Server database and the Agile methodology.
 Asset management application made with C#, SQL Server database and the Agile methodology.
 
- - Korean Blog Responsive by GoldenArcher0912 made with HTML, CSS and Javascript featured on Codecademy learner project showcase May 2023.
+ - Korean Blog Responsive by DPainton0912 made with HTML, CSS and Javascript featured on Codecademy learner project showcase May 2023.
 
 
 ### My Interests:
