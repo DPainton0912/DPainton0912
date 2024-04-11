@@ -124,3 +124,9 @@ Asset management application made with C#, SQL Server database and the Agile met
 #### codecademy.com/profiles/DPainton0912
 
 #### codecademy.com/pages/project-showcase
+
+#### facebook.com/devon.painton.12/
+
+#### instagram.com/devondale0912/
+
+#### twitter.com/DPainton0912
