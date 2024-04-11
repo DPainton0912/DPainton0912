@@ -105,7 +105,7 @@ Asset management application made with C#, SQL Server database and the Agile met
  - Korean Blog Responsive by GoldenArcher0912 made with HTML, CSS and Javascript featured on Codecademy learner project showcase May 2023.
 
 
-### My Intrests:
+### My Interests:
 
 - Game Development
 
